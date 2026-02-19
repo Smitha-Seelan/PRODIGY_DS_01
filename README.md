@@ -15,3 +15,5 @@ World Bank Total Population Dataset (SP.POP.TOTL)
 - Pandas
 - Matplotlib
 - Seaborn
+
+I selected the total population of countries in the year 2022 as a continuous variable and visualized its distribution using a histogram. This shows how population values are spread across countries globally. Additionally, a bar chart was created for the top 10 countries to compare categorical population values.
