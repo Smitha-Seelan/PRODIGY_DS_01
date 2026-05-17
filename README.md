@@ -1,5 +1,3 @@
-# Prodigy InfoTech Internship - Task 01
-
 ## Objective
 To create a bar chart or histogram to visualize the distribution of a categorical or continuous variable.
 
